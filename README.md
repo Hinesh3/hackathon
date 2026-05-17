@@ -1,4 +1,4 @@
-# AtomQuest Goal Setting & Tracking Portal
+# PerformEdge Goal Setting & Tracking Portal
 
 A full-featured web-based Goal Setting & Tracking Portal built for **Atomberg AtomQuest Hackathon 1.0**.
 

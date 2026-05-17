@@ -9,9 +9,10 @@ A full-featured web-based Goal Setting & Tracking Portal built for **Atomberg At
 
 | Role | Email | Password |
 |------|-------|----------|
-| Employee | employee@atomquest.com | Employee@123 |
-| Manager | manager@atomquest.com | Manager@123 |
-| Admin | admin@atomquest.com | Admin@123 |
+| Employee 1 | employee@performedge.com | Employee@123 |
+| Employee 2 | employee2@performedge.com | Employee@123 |
+| Manager | manager@performedge.com | Manager@123 |
+| Admin | admin@performedge.com | Admin@123 |
 
 ## 🛠 Tech Stack
 
@@ -20,7 +21,7 @@ A full-featured web-based Goal Setting & Tracking Portal built for **Atomberg At
 | Frontend | React + Vite |
 | Database | Firebase Firestore |
 | Auth | Firebase Authentication |
-| Hosting | Vercel (Free) |
+| Hosting | Vercel  |
 | Export | SheetJS (xlsx) |
 
 ## ✅ Features Implemented

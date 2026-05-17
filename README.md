@@ -3,7 +3,7 @@
 A full-featured web-based Goal Setting & Tracking Portal built for **Atomberg AtomQuest Hackathon 1.0**.
 
 ## 🚀 Live Demo
-> [Deployment URL will be added after Vercel deploy]
+> [performedge-94d59.firebaseapp.com]
 
 ## 🔑 Demo Credentials
 
@@ -21,7 +21,7 @@ A full-featured web-based Goal Setting & Tracking Portal built for **Atomberg At
 | Frontend | React + Vite |
 | Database | Firebase Firestore |
 | Auth | Firebase Authentication |
-| Hosting | Vercel  |
+| Hosting | Firebase Hosting  |
 | Export | SheetJS (xlsx) |
 
 ## ✅ Features Implemented

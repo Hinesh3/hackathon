@@ -3,7 +3,7 @@
 A full-featured web-based Goal Setting & Tracking Portal built for **Atomberg AtomQuest Hackathon 1.0**.
 
 ## 🚀 Live Demo
-> [performedge-94d59.firebaseapp.com]
+> performedge-94d59.firebaseapp.com
 
 ## 🔑 Demo Credentials
 
